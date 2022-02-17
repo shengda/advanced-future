@@ -1,6 +1,9 @@
-# Advanced Option based on EVM+
+# Advanced Option on EVM+
 
-This project demonstrates an option contract that leverage Acala EVM's Oracle to provide asset price and scheduler to settle the option.
+This project demonstrates an option contract that:
+* Leverage Acala EVM's Oracle to provide asset price
+* Use Acala EVM's scheduler to settle the option
+* Adopt aUSD as the settlement asset
 
 Try running some of the following tasks:
 
